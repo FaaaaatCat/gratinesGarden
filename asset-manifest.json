@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gratinesGarden/static/css/main.7649c662.css",
-    "main.js": "/gratinesGarden/static/js/main.da50e66d.js",
-    "index.html": "/gratinesGarden/index.html",
-    "main.7649c662.css.map": "/gratinesGarden/static/css/main.7649c662.css.map",
-    "main.da50e66d.js.map": "/gratinesGarden/static/js/main.da50e66d.js.map"
+    "main.css": "/gratine/gratines/static/css/main.7649c662.css",
+    "main.js": "/gratine/gratines/static/js/main.72bf9be4.js",
+    "index.html": "/gratine/gratines/index.html",
+    "main.7649c662.css.map": "/gratine/gratines/static/css/main.7649c662.css.map",
+    "main.72bf9be4.js.map": "/gratine/gratines/static/js/main.72bf9be4.js.map"
   },
   "entrypoints": [
     "static/css/main.7649c662.css",
-    "static/js/main.da50e66d.js"
+    "static/js/main.72bf9be4.js"
   ]
 }
