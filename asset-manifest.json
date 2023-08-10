@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/gratinesGarden/static/css/main.597148df.css",
-    "main.js": "/gratinesGarden/static/js/main.1bb7c68c.js",
+    "main.css": "/gratinesGarden/static/css/main.43a7052e.css",
+    "main.js": "/gratinesGarden/static/js/main.7dcf6e12.js",
+    "static/media/bears_4.JPG": "/gratinesGarden/static/media/bears_4.7ab6ae72c8226f71dc2c.JPG",
+    "static/media/bears_5.JPG": "/gratinesGarden/static/media/bears_5.ae0f29d762f3dfb915fe.JPG",
+    "static/media/bears_1.JPG": "/gratinesGarden/static/media/bears_1.5a436c91183713af2b46.JPG",
+    "static/media/bears_2.JPG": "/gratinesGarden/static/media/bears_2.48602f5250264487b6cf.JPG",
+    "static/media/bears_3.JPG": "/gratinesGarden/static/media/bears_3.a92722d145a796acf8c4.JPG",
     "static/media/leaf.png": "/gratinesGarden/static/media/leaf.d8a2784dafdf85617991.png",
     "index.html": "/gratinesGarden/index.html",
-    "main.597148df.css.map": "/gratinesGarden/static/css/main.597148df.css.map",
-    "main.1bb7c68c.js.map": "/gratinesGarden/static/js/main.1bb7c68c.js.map"
+    "main.43a7052e.css.map": "/gratinesGarden/static/css/main.43a7052e.css.map",
+    "main.7dcf6e12.js.map": "/gratinesGarden/static/js/main.7dcf6e12.js.map"
   },
   "entrypoints": [
-    "static/css/main.597148df.css",
-    "static/js/main.1bb7c68c.js"
+    "static/css/main.43a7052e.css",
+    "static/js/main.7dcf6e12.js"
   ]
 }
