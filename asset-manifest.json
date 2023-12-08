@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gratinesGarden/static/css/main.b512eb32.css",
-    "main.js": "/gratinesGarden/static/js/main.cb98e59b.js",
+    "main.js": "/gratinesGarden/static/js/main.c7260a5c.js",
     "static/media/후광.png": "/gratinesGarden/static/media/후광.3b00680d5a8f4ec74032.png",
     "static/media/lensFlare.jpg": "/gratinesGarden/static/media/lensFlare.d0ee23cc7bd033d56c65.jpg",
     "static/media/symbol.png": "/gratinesGarden/static/media/symbol.ca2a0796832d8d2f414d.png",
@@ -9,10 +9,10 @@
     "static/media/item_diamond.png": "/gratinesGarden/static/media/item_diamond.d1b86a0bcf56bd924de1.png",
     "index.html": "/gratinesGarden/index.html",
     "main.b512eb32.css.map": "/gratinesGarden/static/css/main.b512eb32.css.map",
-    "main.cb98e59b.js.map": "/gratinesGarden/static/js/main.cb98e59b.js.map"
+    "main.c7260a5c.js.map": "/gratinesGarden/static/js/main.c7260a5c.js.map"
   },
   "entrypoints": [
     "static/css/main.b512eb32.css",
-    "static/js/main.cb98e59b.js"
+    "static/js/main.c7260a5c.js"
   ]
 }
